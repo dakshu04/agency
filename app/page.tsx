@@ -135,7 +135,7 @@ const Services = () => {
 
 const Process = () => {
   const steps = [
-    { num: "01", title: "Smart Analysis", desc: "We audit your current workflows to find bottlenecks." },
+    { num: "01", title: "Smart change this", desc: "We audit your current workflows to find bottlenecks." },
     { num: "02", title: "Development", desc: "We build custom AI agents tailored to your data." },
     { num: "03", title: "Integration", desc: "Seamlessly connecting AI to your existing stack." },
     { num: "04", title: "Optimization", desc: "Continuous monitoring and improvement." },
